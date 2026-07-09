@@ -1,5 +1,6 @@
 body {
-    font-family: Arial, Helvetica, sans-serif
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
 }
 
 .title {
@@ -8,4 +9,20 @@ body {
 
 .main-img {
     box-shadow: 0px 2px 5px lightgray;
+}
+
+.breadcrumb {
+    color: #565959;
+}
+
+a {
+    color: #007185;
+}
+
+h2 {
+    font-size: large;
+}
+
+.book-info {
+    margin: 10px;
 }
